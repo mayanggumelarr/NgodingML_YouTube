@@ -34,7 +34,7 @@ prep = ColumnTransformer(
 | File | Fungsi |
 |---|---|
 | 📄 `Materi_ColumnTransformer.pdf` | Materi ringkas **3 halaman**: konsep, sintaks, resep lengkap, jebakan umum, dan contekan |
-| 📓 `Latihan_ColumnTransformer.ipynb` | Bank soal & latihan: **kuis teori + 3 studi kasus** + kunci jawaban. Dataset dibuat **otomatis di dalam notebook** |
+| 📓 `Latihan_ColumnTransformer.ipynb` | Bank soal & latihan: **kuis teori + 2 studi kasus** + kunci jawaban. Dataset dibuat **otomatis di dalam notebook** |
 | 🏆 `badge_columntransformer.png` | Badge hadiah **"ColumnTransformer Master"** (rubah dengan trophy emas) |
 | 📝 `README.md` | Panduan yang sedang kamu baca |
 
