@@ -4,7 +4,7 @@
   <img src="badge_columntransformer.png" alt="Badge ColumnTransformer Master" width="260">
 </p>
 
-> **Satu paket belajar lengkap:** materi singkat, 3 studi kasus praktik (dengan dataset), dan badge rubah emas sebagai hadiah kalau kamu berhasil menyelesaikannya. 🏆
+> **Satu paket belajar lengkap:** materi singkat, 2 studi kasus praktik (dengan dataset), dan badge rubah emas sebagai hadiah kalau kamu berhasil menyelesaikannya. 🏆
 
 ---
 
