@@ -60,9 +60,8 @@ Setelah menyelesaikan paket ini, kamu mampu:
 | **A** | Kuis teori (8 soal) | 🟢 | Konsep dasar, dengan jawaban yang bisa dibuka |
 | **B** | **Kasus 1: Prediksi Harga Rumah** 🏠 | 🟢 Mudah | `ColumnTransformer` dasar, `SimpleImputer`, `StandardScaler`, `OneHotEncoder`, `Pipeline`, `RandomForestRegressor` |
 | **C** | **Kasus 2: Prediksi Pelanggan Berhenti Langganan** 📺 | 🟡 Menengah | `make_column_selector`, `OrdinalEncoder`, `passthrough`, `remainder`, output pandas, `GridSearchCV` |
-| **D** | **Kasus 3: Prediksi Kepuasan dari Ulasan Produk** 🛒 | 🔴 Menantang | `TfidfVectorizer` (teks) + angka + kategori, *bug hunt*, membaca kata paling berpengaruh, prediksi data baru |
-| **E** | Kunci jawaban 🔑 | | Kode lengkap semua tugas |
-| **F** | Klaim badge 🏆 | | Rangkuman dan cara klaim hadiah |
+| **D** | Kunci jawaban 🔑 | | Kode lengkap semua tugas |
+| **E** | Klaim badge 🏆 | | Rangkuman dan cara klaim hadiah |
 
 Selain itu ada **tantangan bonus** untuk yang masih penasaran.
 
@@ -74,7 +73,6 @@ Semua dataset **dibuat otomatis** oleh kode di dalam notebook (data sintetis, me
 |---|---|---|---|
 | `data_rumah.csv` | 500 x 7 | `harga_juta` (regresi) | angka, kategori, ada data kosong |
 | `data_churn.csv` | 800 x 9 | `churn` (klasifikasi) | angka, ordinal, nominal, biner, ada data kosong |
-| `data_ulasan.csv` | 900 x 8 | `puas` (klasifikasi) | teks, angka, kategori, kolom ID, ada data kosong |
 
 > File `.csv` otomatis tersimpan di folder kerja saat sel pembuat datanya dijalankan. Di Google Colab, kamu bisa mengunduhnya dari panel **Files** di sebelah kiri.
 
@@ -102,7 +100,7 @@ jupyter notebook Latihan_ColumnTransformer.ipynb
 1. 👀 **Tonton** video short-nya untuk gambaran besar.
 2. 📄 **Baca** PDF materi (cukup 10 menit).
 3. 🧠 **Kerjakan** kuis teori di Bagian A.
-4. ✏️ **Praktik** Studi Kasus 1 → 2 → 3 secara berurutan.
+4. ✏️ **Praktik** Studi Kasus 1 → 2 secara berurutan.
 5. 🔑 **Intip** kunci jawaban hanya setelah mencoba sendiri.
 6. 🏆 **Klaim** badge kamu!
 
@@ -119,7 +117,7 @@ jupyter notebook Latihan_ColumnTransformer.ipynb
 Badge **"ColumnTransformer Master"** 🦊 jadi milikmu kalau kamu sudah:
 
 - [x] Menyelesaikan kuis teori (Bagian A)
-- [x] Menyelesaikan Studi Kasus 1, 2, dan 3 (semua sel "Cek jawabanmu" menampilkan ✅)
+- [x] Menyelesaikan Studi Kasus 1 dan 2 (semua sel "Cek jawabanmu" menampilkan ✅)
 
 Lalu **screenshot** hasil akhir notebook kamu, pasang badge di profilmu, dan ceritakan satu hal baru yang kamu pelajari. Selamat, calon ML Master! 🎉
 
